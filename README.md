@@ -2,7 +2,7 @@
 
 ### 💻 Estudiante de Ingeniería de Sistemas | Desarrollador en formación
 
-- 🌱 I'm currently learning **Me interesa el desarrollo de software, bases de datos y tecnología. **
+- Me interesa el desarrollo de software, bases de datos y tecnología.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
